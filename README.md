@@ -22,10 +22,10 @@
 
 To run the project, modify the code in the Chat component to use the `// Development Code`.
 
-1. Fork & Clone the repository
+1. Clone the repository
 
 ```bash
-git clone git@github.com:alqattandev/searchdevstudies.git
+git clone https://github.com/AlqattanDev/searchdevstudies.git
 ```
 
 2. Install the dependencies
