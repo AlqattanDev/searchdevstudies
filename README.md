@@ -25,7 +25,7 @@ To run the project, modify the code in the Chat component to use the `// Develop
 1. Fork & Clone the repository
 
 ```bash
-git clone git@github.com:[YOUR_GITHUB_ACCOUNT]/omniplex.git
+git clone git@github.com:alqattandev/searchdevstudies.git
 ```
 
 2. Install the dependencies
